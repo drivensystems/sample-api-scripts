@@ -1,4 +1,4 @@
-# sample-api-scripts
+# Paypa Plane Sample API Scripts
 
 Example scripts for API Integrations to Paypa Plane
 
