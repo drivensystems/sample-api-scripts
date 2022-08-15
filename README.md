@@ -2,4 +2,4 @@
 
 Example scripts for API Integrations to Paypa Plane
 
-API Documentation is available at https://dev-developers.paypaplane.com/
+API Documentation is available at https://developers.paypaplane.com/
